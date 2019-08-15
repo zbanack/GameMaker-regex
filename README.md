@@ -16,4 +16,4 @@ if (is_array(matches))
 ```
 
 ## Author
-- [Zack Banack](https://www.zackbanack.com/)
+- *[Zack Banack](https://www.zackbanack.com/)* - Initial work
