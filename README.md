@@ -12,7 +12,7 @@ var matches = regex("The quick brown fox jumps over the lazy dog.",
   "\/\\b(\\w*[a-zA-Z]\\w*)\\b\/g");
 
 if (is_array(matches)) {
-  show_debug_message(matches);
+  show_debug_message(matches); // {"The", "quick", "brown", "fox", "jumps", "over", "the", "lazy", "dog"}
 }
 ```
 
